@@ -1,0 +1,14 @@
+.filter-albums-container {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .filter-albums-input {
+    padding: 10px;
+    width: 100%;
+    max-width: 300px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
